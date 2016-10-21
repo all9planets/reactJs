@@ -1,0 +1,38 @@
+.container{
+	margin:0 auto;
+	border:1px solid red;
+}
+.header{
+	background-color: grey;
+	    width: 205px;
+}
+.nav-li{
+	display: inline-block;
+	margin:10px;
+}
+.content-list{
+	display: block;
+}
+.increment-btn{
+	display: inline-block;
+	background-color: lightblue;
+	outline:none;
+	border:none;
+	margin:20px;
+	width:40px;
+}
+span{
+	display: block;
+}
+div{
+	display:inline-block;
+}
+.list-of-contents{
+	background:white;
+	z-index:2;
+	border:1px solid black;
+	    width: 205px;
+}
+.list-of-contents ul{
+	padding:0;
+}
